@@ -24,5 +24,4 @@
         android:paddingTop="20dp"
         android:entries="@array/options"
         android:gravity="center_horizontal"/>
-
 </LinearLayout>
